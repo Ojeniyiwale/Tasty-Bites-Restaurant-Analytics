@@ -2,6 +2,7 @@
 ![Dashboard 4](https://github.com/user-attachments/assets/79a64059-de9e-4021-b9ee-1ddd0c9cd12b)
 
 In the fast-growing food delivery market, understanding what drives success is key. This project analyzes 21,321 food delivery orders from six Tasty Bites Restaurant locations to uncover consumer behavior trends, delivery challenges, and business insights that can guide strategic decisions for restaurants and platforms alike.
+
 📁 Dataset Overview
 Source: Tasty Bites Restaurant delivery logs
 Records: 21,321 food delivery orders
